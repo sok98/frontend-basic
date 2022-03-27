@@ -1,0 +1,10 @@
+$color--black: #000;
+$color--white: #fff;
+
+body {
+  background-color: $color--black;
+  h1 {
+    color: $color--white;
+    display: flex;  // autoprefixer 제대로 설치되었는지 확인
+  }
+}
