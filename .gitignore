@@ -1,11 +1,3 @@
-part_03/.cache/
-part_03/dist/
-part_03/node_modules/
-
-part_04/.cache/
-part_04/dist/
-part_04/node_modules/
-
-part_08/.cache/
-part_08/dist/
-part_08/node_modules/
+*/.cache/
+*/dist/
+*/node_modules/
